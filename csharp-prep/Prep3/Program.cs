@@ -9,9 +9,6 @@ class Program
         Console.Write("What is the magic number?");
         string userInput = Console.ReadLine();
         int magicNumber = int.Parse(userInput);
-        
-
-
 
     }
 }
